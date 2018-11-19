@@ -1,0 +1,3 @@
+logging.level.root: INFO
+info.app.name: reactive-demo
+management.endpoints.web.exposure.include: "*"
